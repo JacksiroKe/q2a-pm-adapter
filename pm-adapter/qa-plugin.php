@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Private Message Adapter
 	Plugin URI: https://www.github.com/jacksiro/Q2A-PM-Adapter-Plugin
-	Plugin Description: Enhances your private messages experience with an html editor and more features
+	Plugin Description: Adds an editor of your choice on the private message and feedback pages, including support for HTML messages.
 	Plugin Version: 1.0
 	Plugin Date: 2018-07-20
 	Plugin Author: Jackson Siro
