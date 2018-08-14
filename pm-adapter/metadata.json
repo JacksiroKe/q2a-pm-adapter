@@ -1,6 +1,6 @@
 {
 	"name": "Private Message Adapter",
-	"description": "Enhances your private messages experience with an html editor and more features",
+	"description": "Adds an editor of your choice on the private message and feedback pages, including support for HTML messages.",
 	"version": "1.1",
 	"date": "2017-07-20",
 	"author": "Jackson Siro",
