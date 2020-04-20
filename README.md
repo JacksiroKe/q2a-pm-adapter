@@ -13,4 +13,3 @@ Improved feedback page
 <img src="screenshots/pm-feedbacks.png"/>
 Admin Panel to view received feedbacks
 
-This plugin is not free. You can get it for just $30 which is payable to my paypal jaksiro@gmail.com
